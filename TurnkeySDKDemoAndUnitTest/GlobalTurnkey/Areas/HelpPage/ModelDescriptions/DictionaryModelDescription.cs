@@ -1,0 +1,6 @@
+namespace GlobalTurnkey.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
